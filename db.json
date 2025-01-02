@@ -1,0 +1,31 @@
+{
+  "communications": [
+    {
+      "id": 1,
+      "companyName": "Acme Corp",
+      "method": "Email",
+      "dueDate": "2023-12-14T10:00:00Z",
+      "status": "pending",
+      "contactPerson": "John Doe",
+      "contactEmail": "john@acme.com"
+    },
+    {
+      "id": 2,
+      "companyName": "TechStart Inc",
+      "method": "Phone",
+      "dueDate": "2023-12-13T15:00:00Z",
+      "status": "overdue",
+      "contactPerson": "Jane Smith",
+      "contactEmail": "jane@techstart.com"
+    },
+    {
+      "id": 3,
+      "companyName": "Global Solutions",
+      "method": "Meeting",
+      "dueDate": "2023-12-14T14:00:00Z",
+      "status": "pending",
+      "contactPerson": "Mike Johnson",
+      "contactEmail": "mike@globalsolutions.com"
+    }
+  ]
+} 
